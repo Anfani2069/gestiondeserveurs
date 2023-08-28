@@ -1,2 +1,2 @@
 # gestiondeserveurs
-Application de gestion d'employés élaborer en Spring Boot
+Application de gestion de serveurs reseaux élaborer en Spring Boot
